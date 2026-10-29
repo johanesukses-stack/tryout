@@ -1,0 +1,1 @@
+File Supabase_Setup_PRIVATE.sql disediakan terpisah dan berisi data siswa serta kunci jawaban. Jangan unggah file tersebut ke repositori GitHub. Jalankan langsung melalui Supabase SQL Editor.
