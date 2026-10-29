@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "image": "assets/questions/q01.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "image": "assets/questions/q02.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 3,
+    "type": "multi",
+    "image": "assets/questions/q03.jpg",
+    "instruction": "Pilih semua pernyataan yang benar."
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "image": "assets/questions/q04.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 5,
+    "type": "tf",
+    "image": "assets/questions/q05.jpg",
+    "instruction": "Untuk setiap pernyataan, pilih Benar atau Salah."
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "image": "assets/questions/q06.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 7,
+    "type": "multi",
+    "image": "assets/questions/q07.jpg",
+    "instruction": "Pilih semua pernyataan yang benar."
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "image": "assets/questions/q08.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 9,
+    "type": "tf",
+    "image": "assets/questions/q09.jpg",
+    "instruction": "Untuk setiap pernyataan, pilih Benar atau Salah."
+  },
+  {
+    "id": 10,
+    "type": "single",
+    "image": "assets/questions/q10.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 11,
+    "type": "single",
+    "image": "assets/questions/q11.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "image": "assets/questions/q12.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 13,
+    "type": "tf",
+    "image": "assets/questions/q13.jpg",
+    "instruction": "Untuk setiap pernyataan, pilih Benar atau Salah."
+  },
+  {
+    "id": 14,
+    "type": "single",
+    "image": "assets/questions/q14.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 15,
+    "type": "multi",
+    "image": "assets/questions/q15.jpg",
+    "instruction": "Pilih semua pernyataan yang benar."
+  },
+  {
+    "id": 16,
+    "type": "single",
+    "image": "assets/questions/q16.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 17,
+    "type": "single",
+    "image": "assets/questions/q17.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 18,
+    "type": "tf",
+    "image": "assets/questions/q18.jpg",
+    "instruction": "Untuk setiap pernyataan, pilih Benar atau Salah."
+  },
+  {
+    "id": 19,
+    "type": "single",
+    "image": "assets/questions/q19.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 20,
+    "type": "single",
+    "image": "assets/questions/q20.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 21,
+    "type": "multi",
+    "image": "assets/questions/q21.jpg",
+    "instruction": "Pilih semua pernyataan yang benar."
+  },
+  {
+    "id": 22,
+    "type": "single",
+    "image": "assets/questions/q22.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 23,
+    "type": "single",
+    "image": "assets/questions/q23.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 24,
+    "type": "tf",
+    "image": "assets/questions/q24.jpg",
+    "instruction": "Untuk setiap pernyataan, pilih Benar atau Salah."
+  },
+  {
+    "id": 25,
+    "type": "single",
+    "image": "assets/questions/q25.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 26,
+    "type": "multi",
+    "image": "assets/questions/q26.jpg",
+    "instruction": "Pilih semua pernyataan yang benar."
+  },
+  {
+    "id": 27,
+    "type": "tf",
+    "image": "assets/questions/q27.jpg",
+    "instruction": "Untuk setiap pernyataan, pilih Benar atau Salah."
+  },
+  {
+    "id": 28,
+    "type": "single",
+    "image": "assets/questions/q28.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  },
+  {
+    "id": 29,
+    "type": "multi",
+    "image": "assets/questions/q29.jpg",
+    "instruction": "Pilih semua pernyataan yang benar."
+  },
+  {
+    "id": 30,
+    "type": "single",
+    "image": "assets/questions/q30.jpg",
+    "instruction": "Pilih satu jawaban yang paling tepat."
+  }
+]
